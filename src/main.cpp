@@ -52,3 +52,16 @@ static inline void main_loop()
 }
 
 // eof
+
+
+/*
+    1.5ms reset
+    2ms left
+    1ms right 
+
+    1 a cada 20ms
+    subir sinal pelo tempo desejado
+    espera 20ms
+
+    sempre down, sobe pra high pelo tempo do comando e dai vira low
+*/
