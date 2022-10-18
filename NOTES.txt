@@ -1,0 +1,4 @@
+O led tem um pino de input
+24 bits, 8 pra cada cor
+
+Passa a cor pro próximo
